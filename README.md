@@ -1,5 +1,6 @@
 Step by step of installing in school before testing:
-Python 3.12 or 3.11 need here:
+
+Python 3.12 or 3.11 need here: to check do python --version
 
 1. git clone https://github.com/Aizenn835/Face-Recognition.git
 2. cd Face-Recognition
